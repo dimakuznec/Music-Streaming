@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&family=Oswald:wght@200;300&family=Poppins:wght@300;400;500;600&display=swap');
+
+body {
+    background-color: rgb(14, 14, 14);
+    font-family: 'Inter', sans-serif;
+}
+
+.title {
+    position: absolute;
+    width: 346px;
+    height: 180px;
+    left: 231.24px;
+    top: 150px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 90px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 21.1566px 21.1566px rgba(0, 0, 0, 0.15);
+
+}
+
+.description {
+   position: absolute;
+   width: 508px;
+   height: 66px;
+   left: 150px;
+   top: 444px;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 22px;
+   text-align: center;
+   color: #737373;
+}
+
+.lang {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 418px;
+    top: 100px;
+    background: #9146FF;
+    border-radius: 20px;
+}
+
+.image {
+    position: absolute;
+    width: 579px;
+    height: 900px;
+    left: 770px;
+    top: 0px;
+    background: #0000DC;
+}
