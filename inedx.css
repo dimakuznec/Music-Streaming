@@ -47,9 +47,9 @@ body {
 
 .image {
     position: absolute;
-    width: 579px;
+    width: 599px;
     height: 1000px;
-    left: 770px;
+    left: 750px;
     top: 0px;
     background: #0000DC;
 }
@@ -90,7 +90,7 @@ body {
     position: absolute;
     width: 204px;
     height: 17px;
-    left: 300px;
+    left: 320px;
     top: 930px;
     font-style: normal;
     font-weight: 500;
